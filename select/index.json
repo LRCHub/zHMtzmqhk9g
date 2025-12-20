@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "愛 for you！",
+  "base_artist": "i☆Ris",
+  "createdAt": "2025-12-20T14:26:28.035264Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛",
+      "artist": "HALCALI",
+      "has_synced": false,
+      "path": "select/01_愛_HALCALI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛. 很簡單",
+      "artist": "陶喆",
+      "has_synced": true,
+      "path": "select/02_愛._很簡單_陶喆.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか",
+      "artist": "ランカ・リー=中島愛",
+      "has_synced": true,
+      "path": "select/03_愛・おぼえていますか_ランカ・リー=中島愛.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか",
+      "artist": "中島愛",
+      "has_synced": true,
+      "path": "select/04_愛・おぼえていますか_中島愛.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか~bless the little queen",
+      "artist": "ランカ・リー=中島愛",
+      "has_synced": true,
+      "path": "select/05_愛・おぼえていますか~bless_the_little_queen_ランカ・リー=中島愛.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか ～bless the little queen",
+      "artist": "中島愛",
+      "has_synced": true,
+      "path": "select/06_愛・おぼえていますか_~bless_the_little_queen_中島愛.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか ～bless the little queen～",
+      "artist": "中島愛",
+      "has_synced": true,
+      "path": "select/07_愛・おぼえていますか_~bless_the_little_queen~_中島愛.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I、愛、会い",
+      "artist": "ゴーストノート",
+      "has_synced": true,
+      "path": "select/08_I、愛、会い_ゴーストノート.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "#愛",
+      "artist": "A-Lin",
+      "has_synced": false,
+      "path": "select/09_愛_A-Lin.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "曖・アイ・愛",
+      "artist": "ASCA",
+      "has_synced": true,
+      "path": "select/10_曖・アイ・愛_ASCA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "\"bye-bye\" by my 愛",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/11_bye-bye__by_my_愛_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "愛 Think So,",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/12_愛_Think_So,_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "愛 think So,",
+      "artist": "Deco*27 feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/13_愛_think_So,_Deco_27_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "愛 think so",
+      "artist": "DECO＊27 feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/14_愛_think_so_DECO_27_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "愛+K=aKi",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/15_愛+K=aKi_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "友 & 愛",
+      "artist": "宮下 愛 (CV.村上奈津実)",
+      "has_synced": false,
+      "path": "select/16_友_&_愛_宮下_愛_(CV.村上奈津実).txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "友&愛",
+      "artist": "宮下愛(CV.村上奈津実)",
+      "has_synced": true,
+      "path": "select/17_友&愛_宮下愛(CV.村上奈津実).lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I(愛)",
+      "artist": "CircusP",
+      "has_synced": true,
+      "path": "select/18_I(愛)_CircusP.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "“bye-bye” by my 愛",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/19_“bye-bye”_by_my_愛_DECO_27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛 for you!",
+      "artist": "i☆Ris",
+      "has_synced": false,
+      "path": "select/pl_01_愛_for_you!_i☆Ris.txt"
+    }
+  ]
+}
